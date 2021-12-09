@@ -5,16 +5,16 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  - [The challenge](#base-apparel-coming-soon)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+  - [Built with](#HTML-CSS)
+  - [What I learned](#CSS-is-fucking-hard)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+  - [Useful resources](#flex-box)
+- [Author](#Inyene-Ekwere)
+- [Acknowledgments](#Kevin-powell)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -44,7 +44,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -56,9 +56,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
@@ -90,7 +88,7 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+**Note: I am yet to work on the email validation error message as I am unfamiliar with Javascript**
 
 ### Useful resources
 
@@ -101,9 +99,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Inyene Ekwere](https://www.your-site.com)
+- Frontend Mentor - [@Richd0tcom](https://www.frontendmentor.io/profile/yourusername)
+- Twitter - [@c0nsoledotlog](https://www.twitter.com/yourusername)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
